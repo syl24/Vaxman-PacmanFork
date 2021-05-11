@@ -1,5 +1,8 @@
 ### EA Virtual internship 1st assignment
 
+- Modified game logic
+- Download folder and run with Python3 to play
+
 ### Pacman in Python with PyGame
 
 This is a very minimal implementation of the Pacman game, having only one level and without ghosts strategy, not even with random movements (yes, the routes are programmed). However, we may improve this game in the future and everyone else interested can feel free to fork and contribute to this project.
